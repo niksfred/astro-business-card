@@ -1,0 +1,9 @@
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-link {
+    display: inline;
+    padding: 0 1rem;
+}
